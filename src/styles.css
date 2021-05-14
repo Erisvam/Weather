@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #445760;
+  /* background-image: url("./assets/img/cloud.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; */
+}

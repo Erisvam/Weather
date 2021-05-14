@@ -1,0 +1,7 @@
+.containe{
+  display: flex;
+  justify-content: flex-end;
+  padding: 1rem 2rem;
+  width: 100%;
+  margin: 0;
+}
